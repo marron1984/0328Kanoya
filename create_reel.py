@@ -82,7 +82,7 @@ TIMELINE = [
     (25.5, 30.0, 'brand',       {
         'bg': 'images/sakura_02.jpg',
         'main': '奈良春日 鹿のや',
-        'sub': 'Nara Kasuga  Shikanoya',
+        'sub': 'Nara Kasuga  Kanoya',
         'fade_in': 1.5,
         'fade_out': 2.0,
     }),
