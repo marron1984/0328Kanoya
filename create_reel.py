@@ -27,17 +27,8 @@ slides = [
         'zoom': 'slow_out',
         'text_main': '奈良春日 鹿のや',
         'text_sub': '',
-        'text_timing': (0.35, 0.85),   # appear 35%-85% of duration
+        'text_timing': (0.35, 0.85),
         'text_pos': 'center',
-    },
-    {
-        'file': '7C1A5475.JPG',
-        'duration': 4.5,
-        'zoom': 'slow_up',
-        'text_main': '',
-        'text_sub': '',
-        'text_timing': None,
-        'text_pos': None,
     },
     {
         'file': '7C1A5128.JPG',
@@ -77,7 +68,7 @@ slides = [
     },
     {
         'file': '7C1A5225.JPG',
-        'duration': 4.8,
+        'duration': 5.0,
         'zoom': 'slow_up',
         'text_main': '',
         'text_sub': '',
@@ -85,12 +76,12 @@ slides = [
         'text_pos': None,
     },
     {
-        'file': 'images/sakura_01.jpg',
-        'duration': 6.5,
+        'file': '7C1A5475.JPG',
+        'duration': 9.4,
         'zoom': 'slow_in',
         'text_main': '奈良春日 鹿のや',
         'text_sub': 'Nara Kasuga Kanoya',
-        'text_timing': (0.20, 0.90),
+        'text_timing': (0.25, 0.90),
         'text_pos': 'center',
     },
 ]
